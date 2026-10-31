@@ -61,54 +61,55 @@ export const portfolioData = {
     },
   ],
 
-  certificates: [
-    {
-      title: "MongoDB Certified Associate Developer",
-      image: "/certificates/mongodb.png",
-    },
-    {
-      title: "AWS Certified Cloud Practitioner",
-      image: "/certificates/aws-ccp.png",
-    },
-    {
-      title: "Azure AI-103",
-      image: "/certificates/azure-ai103.png",
-    },
-    {
-      title: "3-Hour AI Income Workshop",
-      image: "/certificates/ira-ai-workshop.png",
-    },
-    {
-      title: "EDVYOR Certificate",
-      image: "/certificates/edvyor.png",
-    },
-    {
-      title: "Beep Data Analytics Proficiency",
-      image: "/certificates/beep-data-analytics.png",
-    },
-    {
-      title: "Beep Power BI & Dashboards",
-      image: "/certificates/beep-powerbi.png",
-    },
-    {
-      title: "Beep SQL & Databases",
-      image: "/certificates/beep-sql.png",
-    },
-    {
-      title: "Oasis Internship - Data Analytics",
-      image: "/certificates/oasis-internship.png",
-    },
-    {
-      title: "Codec Technologies - Data Science",
-      image: "/certificates/codec-datascience.png",
-    },
-    {
-      title: "Forage Tata Data Visualization",
-      image: "/certificates/forage-tata.png",
-    },
-    {
-      title: "Deloitte Data Analytics Job Simulation",
-      image: "/certificates/deloitte-simulation.png",
-    },
-  ],
+  
+   certificates: [
+  {
+    title: "MongoDB Certified Associate Developer",
+    image: "/certificates/mongodb.png",
+  },
+  {
+    title: "AWS Certified Cloud Practitioner",
+    image: "/certificates/aws.png",
+  },
+  {
+    title: "Azure AI-103",
+    image: "/certificates/azure.png",
+  },
+  {
+    title: "3-Hour AI Income Workshop",
+    image: "/certificates/ira.png",
+  },
+  {
+    title: "EDVYOR Certificate",
+    image: "/certificates/edvyor.png",
+  },
+  {
+    title: "Beep Data Analytics Proficiency",
+    image: "/certificates/beep-data-analytics.png",
+  },
+  {
+    title: "Beep Power BI & Dashboards",
+    image: "/certificates/beep-powerbi.png",
+  },
+  {
+    title: "Beep SQL & Databases",
+    image: "/certificates/beep-sql.png",
+  },
+  {
+    title: "Oasis Internship - Data Analytics",
+    image: "/certificates/oasis.png",
+  },
+  {
+    title: "Codec Technologies - Data Science",
+    image: "/certificates/codec.png",
+  },
+  {
+    title: "Forage Tata Data Visualization",
+    image: "/certificates/forage.png",
+  },
+  {
+    title: "Deloitte Data Analytics Job Simulation",
+    image: "/certificates/deloitte.png",
+  },
+],
 };
