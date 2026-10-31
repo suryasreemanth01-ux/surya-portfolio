@@ -59,6 +59,16 @@ export const portfolioData = {
       description:
         "Developed a responsive revenue intelligence platform for monitoring B2B account health, identifying churn risks, and discovering expansion opportunities. Integrated AI-generated risk signals and account-level insights into a dashboard.",
     },
+    
+{
+  title: "SentinelAI — Fraud Detection & Risk Intelligence",
+  live: "https://fraud-detection-system-akcruejhdtqw4mn96nwwch.streamlit.app/",
+  github: "https://github.com/suryasreemanth01-ux/fraud-detection-system",
+  tools: "Python, Streamlit, Pandas, Plotly, Scikit-learn",
+  description:
+    "Developed an interactive fraud detection dashboard to identify suspicious transactions and assess financial risk. Implemented transaction risk analysis, risk classification, and visual analytics to help users investigate potentially fraudulent activity through an intuitive dashboard.",
+}
+
   ],
 
   
